@@ -68,7 +68,7 @@
     {
       "creditCard": 1234123412341234,
       "arrivalDate": "$now()",
-      "creditLimit": 7000,
+      "creditLimit": 10000,
       "cancelledReason": "no stock",
       "items": [
         {
