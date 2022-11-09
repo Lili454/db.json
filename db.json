@@ -7,4 +7,13 @@
         }
       
           ] 
+  {
+ 
+    {
+      "creditCard": 2222333344445555,
+      "arrivalDate": "$now()+5",
+      "creditLimit": 7000
+        }
+      
+          
 } }
