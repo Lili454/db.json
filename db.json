@@ -4,19 +4,8 @@
       "creditCard": 1212121212121212,
       "arrivalDate": "12/12/2022",
       "creditLimit": 8000,
-      "courier": "UPS",
-      "items": [
-        {
-          "itemNo": 1,
-          "productDetails": [
-            {
-              "Brand": "Aerie",
-              "Item": "Aeire Force One",
-              "quantity": 1,
-              "Size": "EU 38",
-              "Color": "White"
-            }
-          ]
+      "courier": "UPS"
+     
         },
         {
           "itemNo": 2,
