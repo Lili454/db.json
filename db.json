@@ -2,7 +2,7 @@
   "orders": [
     {
       "creditCard": 1212121212121212,
-      "arrivalDate": "$now()",
+      "arrivalDate": "12/12/2022",
       "creditLimit": 8000,
       "courier": "UPS",
       "items": [
@@ -34,7 +34,7 @@
     },
     {
       "creditCard": 2222333344445555,
-      "arrivalDate": "$now()",
+      "arrivalDate": "05/12/2022",
       "creditLimit": 7000,
       "courier": "DHL",
       "estimatedDelDate": "30-11-2022",
@@ -67,7 +67,7 @@
     },
     {
       "creditCard": 1234123412341234,
-      "arrivalDate": "$now()",
+      "arrivalDate": 20/12/2022,
       "creditLimit": 10000,
       "cancelledReason": "no stock",
       "items": [
