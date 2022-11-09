@@ -2,15 +2,88 @@
   "orders": [
     {
       "creditCard": 1212121212121212,
-      "arrivalDate": "$now()+5",
-      "creditLimit": 8000
-        }   
-          ] 
-    [{
+      "arrivalDate": "$now()",
+      "creditLimit": 8000,
+      "courier": "UPS",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Aeire Force One",
+              "quantity": 1,
+              "Size": "EU 38",
+              "Color": "White"
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Aerie leggings 3/4",
+              "quantity": 2,
+              "Size": "EU S",
+              "Color": "Black"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "creditCard": 2222333344445555,
-      "arrivalDate": "$now()+5",
-      "creditLimit": 7000
-        }]
-      
-          
-} 
+      "arrivalDate": "$now()",
+      "creditLimit": 7000,
+      "courier": "DHL",
+      "estimatedDelDate": "30-11-2022",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Hamptons dress",
+              "quantity": 1,
+              "Size": "EU S",
+              "Color": "Multi"
+            }
+          ]
+        },
+        {
+          "itemNo": 2,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Original",
+              "quantity": 1,
+              "Size": "EU 40",
+              "Color": "Navy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "creditCard": 1234123412341234,
+      "arrivalDate": "$now()",
+      "creditLimit": 7000,
+      "cancelledReason": "no stock",
+      "items": [
+        {
+          "itemNo": 1,
+          "productDetails": [
+            {
+              "Brand": "Aerie",
+              "Item": "Aerie Smith",
+              "quantity": 1,
+              "Size": "EU 41 2/3",
+              "Color": "White"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
