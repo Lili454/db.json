@@ -1,14 +1,11 @@
-{ "data" : {
+{
   "orders": [
     {
       "creditCard": 1212121212121212,
       "arrivalDate": "$now()+5",
       "creditLimit": 8000
-        }
-      
+        }   
           ] 
-  
- 
     {
       "creditCard": 2222333344445555,
       "arrivalDate": "$now()+5",
@@ -16,4 +13,4 @@
         }
       
           
-} }
+} 
