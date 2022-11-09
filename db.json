@@ -67,7 +67,7 @@
     },
     {
       "creditCard": 1234123412341234,
-      "arrivalDate": 20/12/2022,
+      "arrivalDate": "20/12/2022",
       "creditLimit": 10000,
       "cancelledReason": "no stock",
       "items": [
