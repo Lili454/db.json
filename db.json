@@ -1,26 +1,22 @@
 {
   "orders": [
     {
-      "DoB": "15-06-1980",
+      "socialSecurity": 120680111,
       "creditCard": 1212121212121212,
       "arrivalDate": "12/12/2022",
-      "creditLimit": 8000,
-      "courier": "UPS"
+      "creditLimit": 8000
     },
     {
-      "DoB": "22-12-1985",
+      "socialSecurity": 090990222,
       "creditCard": 2222333344445555,
       "arrivalDate": "05/12/2022",
-      "creditLimit": 7000,
-      "courier": "DHL",
-      "estimatedDelDate": "30-11-2022"
+      "creditLimit": 7000
         },
     {
-      "DoB": "10-05-1990",
+      "socialSecurity": 050585333,
       "creditCard": 1234123412341234,
       "arrivalDate": "20/12/2022",
-      "creditLimit": 10000,
-      "cancelledReason": "no stock"
+      "creditLimit": 10000
     }
   ]
 }
